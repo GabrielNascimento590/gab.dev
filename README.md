@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gabriel Nascimento  
 
-🎯 Desenvolvedor Back-End Jr | Java | Spring Boot | SQL  
+🎯 Desenvolvedor Back-End | Java | Spring Boot | SQL  
 
 ---
 
