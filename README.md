@@ -35,7 +35,7 @@
 
 ## 📂 Projetos em destaque  
 
-- 📚 [Cadastro de Usuários - Spring Boot](https://github.com/SEUUSUARIO/cadastro-usuarios-spring)  
+- 📚 [Cadastro de Usuários - Spring Boot](https://github.com/gab.dev/cadastro-usuarios-spring)  
   API REST para cadastro e gerenciamento de usuários com **Spring Boot, H2 Database e Postman**  
 
 ---
